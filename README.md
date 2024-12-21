@@ -38,7 +38,7 @@ You may also want to add a script to your `package.json` in order to quickly lin
 
 ```json
 "scripts": {
-  "lint": "biome check --fix --errors-on-warnings"
+  "lint": "biome check --fix --error-on-warnings"
 }
 ```
 

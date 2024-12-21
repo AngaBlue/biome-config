@@ -20,7 +20,7 @@ A comprehensive Biome configuration package for JavaScript & TypeScript projects
 Install this package and it's peer dependencies with your package manager of choice.
 
 ```sh
-npm i -D @angablue/biome-config biome
+npm i -D @angablue/biome-config @biomejs/biome
 ```
 
 ## Usage

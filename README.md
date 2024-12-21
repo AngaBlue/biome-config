@@ -27,11 +27,12 @@ npm i -D @angablue/biome-config biome
 
 Then create the file `biome.jsonc` in the root directory of your project with the contents:
 
-````jsonc
+```jsonc
 {
   "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
   "extends": "@angablue",
 }
+```
 
 You may also want to add a script to your `package.json` in order to quickly lint and fix problems with your code.
 
@@ -39,7 +40,7 @@ You may also want to add a script to your `package.json` in order to quickly lin
 "scripts": {
   "lint": "biome check --fix --errors-on-warnings"
 }
-````
+```
 
 Now you can, manually lint using the command `npm run lint`, while also receiving inline suggestions and warnings in your editor with the appropriate [`biome`](https://biomejs.dev/guides/editors/first-party-extensions/) extension installed.
 

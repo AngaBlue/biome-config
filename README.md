@@ -30,7 +30,7 @@ Then create the file `biome.jsonc` in the root directory of your project with th
 ```jsonc
 {
   "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
-  "extends": "@angablue",
+  "extends": "@angablue"
 }
 ```
 

@@ -4,7 +4,7 @@
 		"enabled": true,
 		"clientKind": "git",
 		"useIgnoreFile": true,
-    "defaultBranch": "main"
+		"defaultBranch": "main"
 	},
 	"files": {
 		"ignoreUnknown": true,
@@ -27,8 +27,7 @@
 				"noUselessStringConcat": "error",
 				"noUselessUndefinedInitialization": "error",
 				"noVoid": "error",
-				"useDateNow": "error",
-				"useSimplifiedLogicExpression": "error"
+				"useDateNow": "error"
 			},
 			"correctness": {
 				"noConstantMathMinMaxClamp": "error",
@@ -36,7 +35,6 @@
 				"noUnusedImports": "error",
 				"noUnusedFunctionParameters": "error",
 				"noUnusedPrivateClassMembers": "error",
-				// "noUndeclaredDependencies": "error",
 				"useExhaustiveDependencies": {
 					"level": "error",
 					"options": {
@@ -74,6 +72,16 @@
 				"rules": {
 					"style": {
 						"noParameterAssign": "error"
+					}
+				}
+			}
+		},
+		{
+			"include": ["*.ts", "*.tsx"],
+			"linter": {
+				"rules": {
+					"correctness": {
+						"noUnusedVariables": "off"
 					}
 				}
 			}

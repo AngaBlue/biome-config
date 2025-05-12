@@ -11,8 +11,12 @@
 		"url": "git+https://github.com/AngaBlue/biome-config.git"
 	},
 	"keywords": ["biome", "biomejs", "typescript"],
-	"author": "AngaBlue <contact@anga.blue>",
-	"license": "LGPL-3.0-or-later",
+	"author": {
+		"name": "AngaBlue",
+		"email": "contact@anga.blue",
+		"url": "https://anga.blue"
+	},
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/AngaBlue/biome-config/issues"
 	},

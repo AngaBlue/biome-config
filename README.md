@@ -62,4 +62,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [AngaBlue <contact@anga.blue>](https://github.com/AngaBlue).<br />
-This project is [LGPL--3.0--or--later](https://github.com/AngaBlue/biome-config/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/AngaBlue/biome-config/blob/master/LICENSE) licensed.

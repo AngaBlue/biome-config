@@ -1,13 +1,13 @@
 <h1 align="center">AngaBlue Biome Config 🧑🏻‍💻</h1>
 <p align="center">
   <a href="https://www.npmjs.com/package/@angablue/biome-config" target="_blank">
-    <img alt="Downloads" src="https://img.shields.io/npm/dm/@angablue/biome-config.svg?color=blue">
+    <img alt="Downloads" src="https://img.shields.io/npm/dm/@angablue/biome-config.svg?color=blue&label=Downloads">
   </a>
   <a href="https://www.npmjs.com/package/@angablue/biome-config" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/@angablue/biome-config.svg">
+    <img alt="Version" src="https://img.shields.io/npm/v/@angablue/biome-config.svg?label=Version">
   </a>
   <a href="https://github.com/AngaBlue/biome-config/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/npm/l/@angablue/biome-config?color=green" />
+    <img alt="License: MIT" src="https://img.shields.io/npm/l/@angablue/biome-config?color=green&label=Licence" />
   </a>
 </p>
 

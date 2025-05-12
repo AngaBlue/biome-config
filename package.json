@@ -10,11 +10,7 @@
 		"type": "git",
 		"url": "git+https://github.com/AngaBlue/biome-config.git"
 	},
-	"keywords": [
-		"biome",
-		"biomejs",
-		"typescript"
-	],
+	"keywords": ["biome", "biomejs", "typescript"],
 	"author": {
 		"name": "AngaBlue",
 		"email": "contact@anga.blue",

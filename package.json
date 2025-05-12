@@ -1,6 +1,6 @@
 {
 	"name": "@angablue/biome-config",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A comprehensive Biome configuration package for JavaScript & TypeScript projects, with support for React.",
 	"main": "biome.jsonc",
 	"exports": {
@@ -10,7 +10,11 @@
 		"type": "git",
 		"url": "git+https://github.com/AngaBlue/biome-config.git"
 	},
-	"keywords": ["biome", "biomejs", "typescript"],
+	"keywords": [
+		"biome",
+		"biomejs",
+		"typescript"
+	],
 	"author": {
 		"name": "AngaBlue",
 		"email": "contact@anga.blue",

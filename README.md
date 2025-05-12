@@ -7,7 +7,7 @@
     <img alt="Version" src="https://img.shields.io/npm/v/@angablue/biome-config.svg?label=Version">
   </a>
   <a href="https://github.com/AngaBlue/biome-config/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/npm/l/@angablue/biome-config?color=green&label=Licence" />
+    <img alt="Licence: MIT" src="https://img.shields.io/npm/l/@angablue/biome-config?color=green&label=Licence" />
   </a>
 </p>
 

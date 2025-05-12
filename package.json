@@ -1,6 +1,6 @@
 {
 	"name": "@angablue/biome-config",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A comprehensive Biome configuration package for JavaScript & TypeScript projects, with support for React.",
 	"main": "biome.jsonc",
 	"exports": {

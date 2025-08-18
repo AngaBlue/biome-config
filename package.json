@@ -26,6 +26,6 @@
 	},
 	"homepage": "https://github.com/AngaBlue/biome-config#readme",
 	"peerDependencies": {
-		"@biomejs/biome": "^2.1.2"
+		"@biomejs/biome": "^2.2.0"
 	}
 }
